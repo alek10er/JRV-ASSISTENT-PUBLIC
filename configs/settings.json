@@ -1,0 +1,12 @@
+{
+  "recognition": {
+    "timeout": 6.0,
+    "phrase_time_limit": 5.0,
+    "energy_threshold": 300
+  },
+  "mouse": {
+    "movement_speed_min": 0.3,
+    "movement_speed_max": 1.0,
+    "scroll_delay": 0.08
+  }
+}
